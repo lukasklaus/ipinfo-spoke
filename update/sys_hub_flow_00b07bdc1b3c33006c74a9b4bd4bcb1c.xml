@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>false</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description> Flow to test custom action</description>
+        <internal_name>action_test_flow</internal_name>
+        <label_cache>[]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Action Test Flow</name>
+        <outputs/>
+        <remote_trigger_id/>
+        <run_as>user</run_as>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>true</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-10 09:44:27</sys_created_on>
+        <sys_id>00b07bdc1b3c33006c74a9b4bd4bcb1c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Action Test Flow</sys_name>
+        <sys_package display_value="IPInfo Spoke" source="x_147479_ipinfo_sp">66b9efd41b3c33006c74a9b4bd4bcb60</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPInfo Spoke">66b9efd41b3c33006c74a9b4bd4bcb60</sys_scope>
+        <sys_update_name>sys_hub_flow_00b07bdc1b3c33006c74a9b4bd4bcb1c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-10 09:46:31</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=00b07bdc1b3c33006c74a9b4bd4bcb1c"/>
+    <sys_variable_value action="delete_multiple" query="document_key=00b07bdc1b3c33006c74a9b4bd4bcb1c"/>
+</record_update>
